@@ -1,0 +1,14 @@
+C:\VS code\C#\uke1\bin\Debug\net8.0\uke1.exe
+C:\VS code\C#\uke1\bin\Debug\net8.0\uke1.deps.json
+C:\VS code\C#\uke1\bin\Debug\net8.0\uke1.runtimeconfig.json
+C:\VS code\C#\uke1\bin\Debug\net8.0\uke1.dll
+C:\VS code\C#\uke1\bin\Debug\net8.0\uke1.pdb
+C:\VS code\C#\uke1\obj\Debug\net8.0\uke1.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS code\C#\uke1\obj\Debug\net8.0\uke1.AssemblyInfoInputs.cache
+C:\VS code\C#\uke1\obj\Debug\net8.0\uke1.AssemblyInfo.cs
+C:\VS code\C#\uke1\obj\Debug\net8.0\uke1.csproj.CoreCompileInputs.cache
+C:\VS code\C#\uke1\obj\Debug\net8.0\uke1.dll
+C:\VS code\C#\uke1\obj\Debug\net8.0\refint\uke1.dll
+C:\VS code\C#\uke1\obj\Debug\net8.0\uke1.pdb
+C:\VS code\C#\uke1\obj\Debug\net8.0\uke1.genruntimeconfig.cache
+C:\VS code\C#\uke1\obj\Debug\net8.0\ref\uke1.dll
