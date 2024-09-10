@@ -12,3 +12,4 @@ C:\VS code\C#\uke1\obj\Debug\net8.0\refint\uke1.dll
 C:\VS code\C#\uke1\obj\Debug\net8.0\uke1.pdb
 C:\VS code\C#\uke1\obj\Debug\net8.0\uke1.genruntimeconfig.cache
 C:\VS code\C#\uke1\obj\Debug\net8.0\ref\uke1.dll
+C:\VS code\C#\uke1\obj\Debug\net8.0\uke1.sourcelink.json
